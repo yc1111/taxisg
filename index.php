@@ -213,7 +213,7 @@ $app_name = idx($app_info, 'name', '');
       <div>
         <h1>Welcome, <strong><?php echo he(idx($basic, 'name')); ?></strong></h1>
         <p class="tagline">
-          This is your app, XIE GUANGZHi
+          Welcome to TaxiShare contributed by GUANGZHI~
           <a href="<?php echo he(idx($app_info, 'link'));?>" target="_top"><?php echo he($app_name); ?></a>
         </p>
 
